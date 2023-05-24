@@ -754,7 +754,10 @@ footer .pro-link i:hover {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 8vw;
+    padding-left: 8vw;
+    padding-bottom: 8vw;
+    padding-right: 8vw;
+    padding-top: 4vw;
 }
 
 #course-inner .overview {
@@ -817,7 +820,7 @@ footer .pro-link i:hover {
     font-size: 24px;
     font-weight: 700;
     color: #fff;
-    background: #373766;
+    background: #054F97;
 }
 
 #course-inner .learn p {
@@ -916,9 +919,9 @@ footer .pro-link i:hover {
     border-radius: 5px;
     font-weight: 600;
     /* color: rgb(21, 21, 100); */
-    color: #000;
+    color: #FFF;
     border: 1px solid #000;
-    background: rgb(230, 230, 9);
+    background: #EB7224;
 }
 
 
